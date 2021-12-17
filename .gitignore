@@ -1,0 +1,7 @@
+# Compiled class file
+*.class
+
+# Maven builds
+*/target/
+target/
+**/.factorypath
